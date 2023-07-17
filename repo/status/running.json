@@ -1,0 +1,37 @@
+{
+  "/etc/issue.net": "Debian GNU/Linux 12",
+  "antiFeatures": {
+    "NonFreeNet": {
+      "apps": [
+        "org.thoughtcrime.securesms"
+      ]
+    },
+    "UpstreamNonFree": {
+      "apps": [
+        "org.thoughtcrime.securesms"
+      ]
+    }
+  },
+  "apksigner": "/home/android/bin/apksigner",
+  "archivePolicy0": [],
+  "commandLine": [
+    "/home/android/.local/bin/fdroid update",
+    "--pretty"
+  ],
+  "disabled": [],
+  "endTimestamp": 1689575129505,
+  "failedBuilds": {},
+  "jarsigner": "/usr/lib/jvm/default-java/bin/jarsigner",
+  "keytool": "/usr/lib/jvm/default-java/bin/keytool",
+  "needsUpdate": [
+    "org.thoughtcrime.securesms"
+  ],
+  "noPackages": [
+    "org.thoughtcrime.securesms"
+  ],
+  "noUpdateCheck": [
+    "org.thoughtcrime.securesms"
+  ],
+  "startTimestamp": 1689531916000,
+  "subcommand": "update"
+}
