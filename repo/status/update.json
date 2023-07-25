@@ -12,17 +12,17 @@
       ]
     }
   },
-  "apksigner": "/home/android/bin/apksigner",
+  "apksigner": "/home/android/android/sdk/build-tools/32.0.0/apksigner",
   "archivePolicy0": [],
   "commandLine": [
-    "/home/android/.local/bin/fdroid update",
+    "/home/android/fdroid/bin/fdroid update",
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1689575129505,
+  "endTimestamp": 1690268637211,
   "failedBuilds": {},
-  "jarsigner": "/usr/lib/jvm/default-java/bin/jarsigner",
-  "keytool": "/usr/lib/jvm/default-java/bin/keytool",
+  "jarsigner": "/usr/lib/jvm/java-17-openjdk-amd64/bin/jarsigner",
+  "keytool": "/usr/lib/jvm/java-17-openjdk-amd64/bin/keytool",
   "needsUpdate": [
     "org.thoughtcrime.securesms"
   ],
@@ -32,6 +32,6 @@
   "noUpdateCheck": [
     "org.thoughtcrime.securesms"
   ],
-  "startTimestamp": 1689531916000,
+  "startTimestamp": 1690225431000,
   "subcommand": "update"
 }
