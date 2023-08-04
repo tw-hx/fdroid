@@ -19,7 +19,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1690268637211,
+  "endTimestamp": 1691146428411,
   "failedBuilds": {},
   "jarsigner": "/usr/lib/jvm/java-17-openjdk-amd64/bin/jarsigner",
   "keytool": "/usr/lib/jvm/java-17-openjdk-amd64/bin/keytool",
@@ -32,6 +32,6 @@
   "noUpdateCheck": [
     "org.thoughtcrime.securesms"
   ],
-  "startTimestamp": 1690225431000,
+  "startTimestamp": 1691103222000,
   "subcommand": "update"
 }
