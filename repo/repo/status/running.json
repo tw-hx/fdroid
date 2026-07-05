@@ -1,0 +1,18 @@
+{
+  "/etc/issue.net": "Debian GNU/Linux 13",
+  "commandLine": [
+    "/home/android/android/fdroidserver/bin/fdroid update",
+    "--pretty"
+  ],
+  "stages": {
+    "delete_disabled_builds": 1783221154834,
+    "index.make repo": 1783221154836,
+    "prepare_apps repo": 1783221154835,
+    "process_apks": 1783221154834,
+    "read_added_date_from_all_apks": 1783221154835,
+    "remove_apks": 1783221154835,
+    "scan_repo_files": 1783221154835
+  },
+  "startTimestamp": 1783177954000,
+  "subcommand": "update"
+}
