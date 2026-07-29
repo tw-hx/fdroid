@@ -19,7 +19,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1784200540142,
+  "endTimestamp": 1785321186373,
   "failedBuilds": {},
   "jarsigner": "/usr/lib/jvm/java-21-openjdk-amd64/bin/jarsigner",
   "keytool": "/usr/lib/jvm/java-21-openjdk-amd64/bin/keytool",
@@ -33,14 +33,14 @@
     "org.thoughtcrime.securesms"
   ],
   "stages": {
-    "delete_disabled_builds": 1784200533211,
-    "index.make repo": 1784200538279,
-    "prepare_apps repo": 1784200538277,
-    "process_apks": 1784200533211,
-    "read_added_date_from_all_apks": 1784200538277,
-    "remove_apks": 1784200538275,
-    "scan_repo_files": 1784200538274
+    "delete_disabled_builds": 1785321179054,
+    "index.make repo": 1785321184515,
+    "prepare_apps repo": 1785321184513,
+    "process_apks": 1785321179054,
+    "read_added_date_from_all_apks": 1785321184513,
+    "remove_apks": 1785321184511,
+    "scan_repo_files": 1785321184510
   },
-  "startTimestamp": 1784157333000,
+  "startTimestamp": 1785277978000,
   "subcommand": "update"
 }
