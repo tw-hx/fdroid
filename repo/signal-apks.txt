@@ -1,3 +1,3 @@
+https://github.com/tw-hx/Signal-Android/releases/download/v8.28.4.0-FOSS/Signal-Android-website-foss-prod-universal-release-signed-8.28.4.apk
 https://github.com/tw-hx/Signal-Android/releases/download/v8.27.1.0-FOSS/Signal-Android-website-foss-prod-universal-release-signed-8.27.1.apk
 https://github.com/tw-hx/Signal-Android/releases/download/v8.26.4.0-FOSS/Signal-Android-website-foss-prod-universal-release-signed-8.26.4.apk
-https://github.com/tw-hx/Signal-Android/releases/download/v8.25.2.0-FOSS/Signal-Android-website-foss-prod-universal-release-signed-8.25.2.apk
